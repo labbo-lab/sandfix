@@ -332,8 +332,8 @@ impl Universe {
             Species::Oil => 50,
 
             // Intentionally left out and covered by the default case
-            // Species::Water => 40,
-            // Species::Acid => 40,
+            Species::Water => 40,
+            Species::Acid => 40,
 
             Species::Seed => 35,
 
