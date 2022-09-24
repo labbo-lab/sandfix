@@ -1,3 +1,4 @@
+
 Nutrients:
 Moisture
 Sugar
@@ -5,13 +6,13 @@ Nitrogen
 
 Substrates:
 Dirt
-Stone
-Water
+~~Stone~~
+~~Water~~
 
 Plants:
 kelp
 grass
-flower
+~~flower~~
 vine
 
 Fungus:
