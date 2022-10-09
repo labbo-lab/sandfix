@@ -181,6 +181,8 @@ class Index extends React.Component {
       submissionMenuOpen: true,
     });
   }
+  
+  //need to move this to the user's profile
   rateLimited() {
     var postList = JSON.parse(localStorage.getItem("postList") || "[]");
     postList = postList.filter((post) => Date.now() - 1000 * 60 * 5 < post);
