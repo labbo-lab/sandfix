@@ -733,6 +733,7 @@ wordfilter.removeWord("crip");
 wordfilter.removeWord("kraut");
 wordfilter.removeWord("spook");
 wordfilter.addWords(["porn"]);
+wordfilter.addWords(["shit"]);
 wordfilter.addWords(["fuck"]);
 
 wordfilter.addWords(["rape"]);
